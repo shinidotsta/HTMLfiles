@@ -1,0 +1,79 @@
+body
+{
+ background-image:url(apple-2788616_960_720.jpg);
+ background-repeat: no-repeat;
+ background-size:100%;
+}
+.loginbox
+{
+  width:25%;
+  height:100%;
+  margin:10% auto;
+  border-radius:20%;
+  background-color:#ffff;
+}
+.signin
+{
+  padding-top:10%;
+  color: #8c55AA;
+  font-family: 'Ubuntu',sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.user
+{
+  width:76%;
+  font-weight:700
+  font-size:1em;
+  background:rgba(192, 192, 192, 0.2);
+  padding:10px 20px;
+  border:none;
+  border:5px solid silver;
+  margin-bottom: 50px;
+  margin-left: 46px;
+  text-align:center
+  margin-bottom:27px;
+  font-family: 'Ubuntu',sans-serif;
+  border-radius:15px;
+}
+.pwd
+{
+  width:76%;
+  font-weight:700
+  font-size:1em;
+  background:rgba(192, 192, 192, 0.2);
+  padding:10px 20px;
+  border:none;
+  margin-bottom: 50px;
+  margin-left: 46px;
+  text-align:center
+  margin-bottom:27px;
+  font-family: 'Ubuntu',sans-serif;
+  border-radius:15px;
+}
+.btn:hover
+{
+  background-color:red;
+}
+
+.btn
+{
+  cursor: pointer
+  border-radius:5em;
+  color:#ffff;
+  margin-left: 35%;
+  background:#0000FF;
+  font-family: 'Ubuntu',sans-serif;
+  font-size:13px;
+  position: center;
+
+
+}
+.frget
+{
+ margin-top: 33px;
+ margin-left:29%;
+  margin-bottom: 33px;
+font-weight:bold;
+
+}
